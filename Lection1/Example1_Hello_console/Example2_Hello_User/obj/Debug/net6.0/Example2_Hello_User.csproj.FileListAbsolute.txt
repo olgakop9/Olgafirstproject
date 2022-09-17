@@ -1,0 +1,15 @@
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.AssemblyInfoInputs.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.AssemblyInfo.cs
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\bin\Debug\net6.0\Example2_Hello_User.exe
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\bin\Debug\net6.0\Example2_Hello_User.deps.json
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\bin\Debug\net6.0\Example2_Hello_User.runtimeconfig.json
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\bin\Debug\net6.0\Example2_Hello_User.dll
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\bin\Debug\net6.0\Example2_Hello_User.pdb
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.dll
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\refint\Example2_Hello_User.dll
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.pdb
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\Example2_Hello_User.genruntimeconfig.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\obj\Debug\net6.0\ref\Example2_Hello_User.dll

@@ -1,0 +1,15 @@
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\bin\Debug\net6.0\Ex2_hello_user.exe
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\bin\Debug\net6.0\Ex2_hello_user.deps.json
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\bin\Debug\net6.0\Ex2_hello_user.runtimeconfig.json
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\bin\Debug\net6.0\Ex2_hello_user.dll
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\bin\Debug\net6.0\Ex2_hello_user.pdb
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.AssemblyInfoInputs.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.AssemblyInfo.cs
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.dll
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\refint\Ex2_hello_user.dll
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.pdb
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\Ex2_hello_user.genruntimeconfig.cache
+C:\Users\Sony\Desktop\Csharpproject\Lection1\Example1_Hello_console\Example2_Hello_User\Ex2_hello_user\obj\Debug\net6.0\ref\Ex2_hello_user.dll
